@@ -11,4 +11,4 @@ This project implements the graphical user interfaces (GUI) in java to display a
 - Include/Exclude stops
 - Press Play
 
-Once Play/Reset Button is pressed the trail will run and will take the exact path using coordinates read in from the CSV file.
+Once the "Play/Reset" Button is pressed the trail will run and will take the exact path using coordinates read in from the CSV file.
